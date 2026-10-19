@@ -1,16 +1,91 @@
-## Hi there 👋
+```console
+$ whoami
+fagner moura · founding team / research engineer @ luure
+shipping software since 1999. go & python mainly by choice.
+```
 
-<!--
-**fagnermourafeitosa/fagnermourafeitosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```go
+package fagner
 
-Here are some ideas to get you started:
+type Engineer struct {
+	Role     string
+	Base     string
+	Writes   []string
+	Speaks   []string
+	Runs     []string
+	Obsesses []string
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+var Me = Engineer{
+	Role:   "Research Engineer · Founding Team @ Luure",
+	Base:   "São Paulo, BR",
+	Writes: []string{"Go", "Python"},
+	Runs:   []string{"AWS", "GCP", "Kubernetes", "gRPC"},
+	Obsesses: []string{
+		"decentralized identity (SSI)",
+		"verifiable credentials (OpenID4VC)",
+		"zero-knowledge proofs",
+		"distributed systems that survive production",
+		"recsys, search & applied AI",
+	},
+}
+```
+
+### ⚡ Right now
+
+- **Building trust infrastructure at [Luure](#)** — digital wallets, credential issuance & verification protocols, custom ZK circuits with **Longfellow ZK**, and ledger infra on **Hyperledger Indy / ACA-Py**. Services in Go + Python talking gRPC.
+- **Studying Data Science at Unicamp** (specialization, wrapping up end of 2026).
+
+### 🛠️ Things I've built
+
+- **Oshen** — a social-commerce discovery engine, built solo end-to-end. Semantic search + ranking + GenAI, and **OSHEN29**: a 29-dimensional decision model for explainable recommendations instead of "here's something similar, good luck".
+- **LLM agents in the wild** — persistent memory for game NPCs that remember players, RAG pipelines that turn sales history into lead scoring, knowledge-discovery chatbots.
+- **Data platforms that pay for themselves** — on-prem → GCP migrations, distributed **ClickHouse** OLAP, Spark/Airflow pipelines, streaming on Kinesis/Kafka.
+- **Event-driven microservices in Go and Python**.
+
+### 🧭 Path
+
+```text
+1999 ─┬─ first production code
+2006  ├─ globo.com · architecture & perf on the core publishing platform
+2012  ├─ tech lead · native iOS / Android
+2014  ├─ data engineering · Spark, Airflow, Hadoop
+2017  ├─ data platforms on AWS · ClickHouse at scale
+2019  ├─ lead data engineer → data scientist · ML, DL, recsys
+2020  ├─ head of engineering · 3 squads, Go/Python on GCP
+2021  ├─ engineering manager · CDP & martech
+2023  ├─ independent · LLM agents, RAG, perf firefighting
+2025  ├─ staff engineer · application & cloud security
+2025  ├─ founder · Oshen
+2026 ─┴─ founding team · Luure · SSI / ZKP  ← you are here
+```
+
+Been an IC, a manager and a head of eng. Went back to the keyboard because that's where the fun is — but I still know how to connect engineering, data, product and business.
+
+### 🧰 Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
+
+### 🎓 Background
+
+```python
+education = {
+    "Unicamp":    "Data Science specialization (2025–2026)",
+    "PUC-Rio":    "AI & Deep Learning · Machine Learning",
+    "Vanzolini":  "Leadership & People Management",
+    "FIA":        "Leadership",
+}
+```
+
+### 📡 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seufagner-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seufagner)
+[![Email](https://img.shields.io/badge/Email-fagnermoura@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fagnermoura@gmail.com)
+
+
+```go
+// if err != nil { return err } is a lifestyle.
+```
