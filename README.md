@@ -4,33 +4,6 @@ fagner moura · founding team / research engineer @ luure
 shipping software since 1999. go & python mainly by choice.
 ```
 
-```go
-package fagner
-
-type Engineer struct {
-	Role     string
-	Base     string
-	Writes   []string
-	Speaks   []string
-	Runs     []string
-	Obsesses []string
-}
-
-var Me = Engineer{
-	Role:   "Research Engineer · Founding Team @ Luure",
-	Base:   "São Paulo, BR",
-	Writes: []string{"Go", "Python"},
-	Runs:   []string{"AWS", "GCP", "Kubernetes", "gRPC"},
-	Obsesses: []string{
-		"decentralized identity (SSI)",
-		"verifiable credentials (OpenID4VC)",
-		"zero-knowledge proofs",
-		"distributed systems that survive production",
-		"recsys, search & applied AI",
-	},
-}
-```
-
 ### ⚡ Right now
 
 - **Building trust infrastructure at [Luure](#)** — digital wallets, credential issuance & verification protocols, custom ZK circuits with **Longfellow ZK**, and ledger infra on **Hyperledger Indy / ACA-Py**. Services in Go + Python talking gRPC.
