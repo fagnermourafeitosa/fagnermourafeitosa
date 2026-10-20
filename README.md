@@ -48,10 +48,18 @@ Been an IC, a manager and a head of eng. Went back to the keyboard because that'
 
 ### Education
 
-- **Unicamp** — Data Science specialization (2025–2026).
-- **PUC-Rio** — AI & Deep Learning · Machine Learning.
-- **Vanzolini** — Leadership & People Management.
-- **FIA** — Leadership.
+- **Universidade Estadual de Campinas (Unicamp)** — Data Science specialization · Aug 2025–Dec 2026 (expected) · University extension, 400 hours.
+- **PUCRS** — MBA in Philosophy and Self-Knowledge (lato sensu postgraduate program) · Mar 2024–Mar 2025. Focus on the philosophy of technology and the impact of AI on professional careers.
+- **Estácio** — Undergraduate degree in Data Science · Jan 2020–Aug 2022.
+- **IFPE, Jaboatão Campus** — Undergraduate studies in Graphic Design · 2003–2005 (not completed).
+
+#### Professional development
+
+- **Fundação Vanzolini** — Leadership and People Management · Jan–Jul 2022 · 72 hours.
+- **Northwestern University — Kellogg School of Management** — MarTech Strategy: Leveraging Data and Technology in Marketing · Sep 2021–Jan 2022.
+- **FIA Business School** — Leadership · Mar–Jun 2021 · 55 hours.
+- **Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)** — Professional Certificate in Artificial Intelligence & Deep Learning · Aug–Dec 2019 · University extension, 45 hours.
+- **ICA — Computational Intelligence Laboratory, PUC-Rio** — Professional Certificate in Machine Learning · Mar–Jul 2019 · University extension, 45 hours.
 
 ### 📡 Reach me
 
