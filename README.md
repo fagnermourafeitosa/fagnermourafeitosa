@@ -6,7 +6,7 @@ shipping software since 1999. go & python mainly by choice.
 
 ### ⚡ Right now
 
-- **Building trust infrastructure at [Luure](#)** — digital wallets, credential issuance & verification protocols, custom ZK circuits with **Longfellow ZK**, and ledger infra on **Hyperledger Indy / ACA-Py**. Services in Go + Python talking gRPC.
+- **Building trust infrastructure at [Luure](https://luure.com.br)** — digital wallets, credential issuance & verification protocols, custom ZK circuits with **Longfellow ZK**, and ledger infra on **Hyperledger Indy / ACA-Py**. Services in Go + Python talking gRPC.
 - **Studying Data Science at Unicamp** (specialization, wrapping up end of 2026).
 
 ### 🛠️ Things I've built
