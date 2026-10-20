@@ -46,20 +46,11 @@ Been an IC, a manager and a head of eng. Went back to the keyboard because that'
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
 
-### Education
+### Background
 
-- **Universidade Estadual de Campinas (Unicamp)** — Data Science specialization · Aug 2025–Dec 2026 (expected) · University extension, 400 hours.
-- **PUCRS** — MBA in Philosophy and Self-Knowledge (lato sensu postgraduate program) · Mar 2024–Mar 2025. Focus on the philosophy of technology and the impact of AI on professional careers.
-- **Estácio** — Undergraduate degree in Data Science · Jan 2020–Aug 2022.
-- **IFPE, Jaboatão Campus** — Undergraduate studies in Graphic Design · 2003–2005 (not completed).
+My formal background is in **Data Science at Estácio**, and I'm currently specializing in the field at **Unicamp**. I also studied **Machine Learning and AI & Deep Learning at PUC-Rio**.
 
-#### Professional development
-
-- **Fundação Vanzolini** — Leadership and People Management · Jan–Jul 2022 · 72 hours.
-- **Northwestern University — Kellogg School of Management** — MarTech Strategy: Leveraging Data and Technology in Marketing · Sep 2021–Jan 2022.
-- **FIA Business School** — Leadership · Mar–Jun 2021 · 55 hours.
-- **Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)** — Professional Certificate in Artificial Intelligence & Deep Learning · Aug–Dec 2019 · University extension, 45 hours.
-- **ICA — Computational Intelligence Laboratory, PUC-Rio** — Professional Certificate in Machine Learning · Mar–Jul 2019 · University extension, 45 hours.
+I've also studied **people management at Vanzolini and FIA**, **MarTech strategy at Kellogg**, and **Philosophy and Self-Knowledge at PUCRS**, where my MBA explored technology and AI's impact on professional life. A couple of years of **Graphic Design at IFPE** are part of that mix too.
 
 ### 📡 Reach me
 
