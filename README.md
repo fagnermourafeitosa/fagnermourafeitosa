@@ -46,16 +46,12 @@ Been an IC, a manager and a head of eng. Went back to the keyboard because that'
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
 
-### 🎓 Background
+### Education
 
-```python
-education = {
-    "Unicamp":    "Data Science specialization (2025–2026)",
-    "PUC-Rio":    "AI & Deep Learning · Machine Learning",
-    "Vanzolini":  "Leadership & People Management",
-    "FIA":        "Leadership",
-}
-```
+- **Unicamp** — Data Science specialization (2025–2026).
+- **PUC-Rio** — AI & Deep Learning · Machine Learning.
+- **Vanzolini** — Leadership & People Management.
+- **FIA** — Leadership.
 
 ### 📡 Reach me
 
