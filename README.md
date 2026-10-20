@@ -18,6 +18,10 @@ shipping software since 1999. go & python mainly by choice.
 - **Data platforms that pay for themselves** — on-prem → GCP migrations, distributed **ClickHouse** OLAP, Spark/Airflow pipelines, streaming on Kinesis/Kafka.
 - **Event-driven microservices in Go and Python**.
 
+### 📖 Writing
+
+- **[Credenciais Verificáveis](https://github.com/fagnermourafeitosa/credenciais-verificaveis-book)** — my book on digital identity, verifiable credentials, zero-knowledge proofs, and keeping AI agents under control. Written in Portuguese, with the full PDF available in the repository.
+
 ### 🧭 Path
 
 ```text
