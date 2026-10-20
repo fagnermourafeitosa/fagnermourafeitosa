@@ -12,7 +12,8 @@ shipping software since 1999. go & python mainly by choice.
 ### 🛠️ Things I've built
 
 - **[Memory Stale](https://github.com/fagnermourafeitosa/memory-stale)** — persistent project memory for **Claude Code, Codex & Antigravity**, tied to the code that supports each claim. Tree-sitter fingerprints detect semantic changes and keep stale memories out of the agent's context. Local, deterministic, and stored as Markdown in Git.
-- **Oshen** — a social-commerce discovery engine, built solo end-to-end. Semantic search + ranking + GenAI, and **OSHEN29**: a 29-dimensional decision model for explainable recommendations instead of "here's something similar, good luck".
+- **[Oshen](https://github.com/fagnermourafeitosa/oshen)** — a social-commerce discovery engine, built solo end-to-end. Semantic search + ranking + GenAI, and **OSHEN29**: a 29-dimensional decision model for explainable recommendations instead of "here's something similar, good luck".
+- **[Caderninho](https://github.com/fagnermourafeitosa/caderninho)** — a local-first notebook for macOS, designed in Portuguese. Notes, tasks, reminders & infinite canvases stay connected, with tasks linked to the passages they came from and related pages found entirely on your Mac.
 - **LLM agents in the wild** — persistent memory for game NPCs that remember players, RAG pipelines that turn sales history into lead scoring, knowledge-discovery chatbots.
 - **Data platforms that pay for themselves** — on-prem → GCP migrations, distributed **ClickHouse** OLAP, Spark/Airflow pipelines, streaming on Kinesis/Kafka.
 - **Event-driven microservices in Go and Python**.
