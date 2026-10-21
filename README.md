@@ -25,16 +25,17 @@ shipping software since 1999. go & python mainly by choice.
 
 ```text
 1999 ─┬─ first production code
-2006  ├─ globo.com · architecture & perf on the core publishing platform
-2012  ├─ tech lead · native iOS / Android
-2014  ├─ data engineering · Spark, Airflow, Hadoop
-2017  ├─ data platforms on AWS · ClickHouse at scale
+2006  ├─ globo.com · architecture & perf on the core publishing platform · Java, JBoss
+2012  ├─ tech lead · native iOS / Android, Ruby on Rails
+2014  ├─ data engineering · Spark, Airflow, Hadoop on AWS
+2017  ├─ data platforms on AWS · ClickHouse at scale, Spark, Airflow
 2019  ├─ lead data engineer → data scientist · ML, DL, recsys
-2020  ├─ head of engineering · 3 squads, Go/Python on GCP
-2021  ├─ engineering manager · CDP & martech
-2023  ├─ independent · LLM agents, RAG, perf firefighting
+2020  ├─ head of engineering · 4 squads · Go/Python on GCP
+2021  ├─ engineering manager · 2 squads · Applied IA to marketing, Salesforce, CDP & other martech systems
+2022. ├─ consultant · LLM agents, RAG, perf firefighting 
+2023  ├─ founder · affiliates whitelabel · LangGraph, Clickhouse, Go/Python/React on GCP
 2025  ├─ staff engineer · application & cloud security
-2026 ─┴─ founding team · Luure · SSI / ZKP  ← you are here
+2026 ─┴─ founding team · Luure · HYperledge, SSI / ZKP, Go/Python, GCP  ← you are here
 ```
 
 Been an IC, a manager and a head of eng. Went back to the keyboard because that's where the fun is — but I still know how to connect engineering, data, product and business.
