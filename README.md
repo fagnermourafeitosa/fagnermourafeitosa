@@ -30,7 +30,7 @@ shipping software since 1999. go & python mainly by choice.
 2014  ├─ data engineering · Spark, Airflow, Hadoop on AWS
 2017  ├─ data platforms on AWS · ClickHouse at scale, Spark, Airflow
 2019  ├─ lead data engineer → data scientist · ML, DL, recsys
-2020  ├─ head of engineering · 4 squads · Go/Python on GCP
+2020  ├─ head of engineering · 4 squads, Kanban/Team Topologies · Go/Python on GCP
 2021  ├─ engineering manager · 2 squads · Applied IA to marketing, Salesforce, CDP & other martech systems
 2022. ├─ consultant · LLM agents, RAG, perf firefighting 
 2023  ├─ founder · affiliates whitelabel · LangGraph, Clickhouse, Go/Python/React on GCP
