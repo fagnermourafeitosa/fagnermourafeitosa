@@ -57,5 +57,4 @@ I've also studied **people management at Vanzolini and FIA**, **MarTech strategy
 ### 📡 Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-seufagner-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seufagner)
-[![Medium](https://medium.com/@seufagner)
 [![Email](https://img.shields.io/badge/Email-fagnermoura@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fagnermoura@gmail.com)
