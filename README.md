@@ -21,6 +21,7 @@ shipping software since 1999. go & python mainly by choice.
 
 **[Credenciais Verificáveis ](https://github.com/fagnermourafeitosa/credenciais-verificaveis-book)** — a technical guide to digital identity, verifiable credentials, zero-knowledge proofs, and AI agent authorization and delegation. Covers **W3C VCs, OpenID4VCI/VP, SD-JWT, Longfellow ZK, OAuth Token Exchange, and AuthZEN**. [Read the PDF](https://github.com/fagnermourafeitosa/credenciais-verificaveis-book/blob/main/credenciais_verificaveis_livro.pdf).
 
+
 ### 🧭 Path
 
 ```text
@@ -56,4 +57,5 @@ I've also studied **people management at Vanzolini and FIA**, **MarTech strategy
 ### 📡 Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-seufagner-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seufagner)
+![Medium](https://medium.com/@seufagner)
 [![Email](https://img.shields.io/badge/Email-fagnermoura@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fagnermoura@gmail.com)
